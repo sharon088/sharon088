@@ -1,9 +1,5 @@
 <h1 align="center">Sharon's DevOps Repo</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=DevOps+Practitioner;Ex+Venture+Capital+Analyst;Always+Learning+New+Things!" alt="Typing SVG" /></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sharon-burshtein-53146b187/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
@@ -53,7 +49,6 @@
 ## ☁️ Cloud & Database 🛢️
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.steerbridge.com/hs-fs/hubfs/Assets_2023/aws%20white%20transparent.png?width=400&height=259&name=aws%20white%20transparent.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"> <img src="https://www.univio.com/wp-content/uploads/2023/07/GCP-Logo-sygnet-1.png" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.cloudcomputing-news.net/wp-content/uploads/2022/02/vmware-logo.png" alt="vmwware" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/> </a>
