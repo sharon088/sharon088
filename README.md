@@ -1,4 +1,4 @@
-<h1 align="center">Sharon's DevOps Repo</h3>
+<h1 align="center">Sharon's Repo</h3>
 
 <!-- Social icons section -->
 <p align="center">
