@@ -1,4 +1,4 @@
-<h1 align="center">Howdy Pal 🤠 Niv's DevOps Repo</h3>
+<h1 align="center">Sharon's DevOps Repo</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=DevOps+Practitioner;Ex+Venture+Capital+Analyst;Always+Learning+New+Things!" alt="Typing SVG" /></a>
@@ -6,30 +6,18 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/niv-zilberman/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/sharon-burshtein-53146b187/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://niv-devops.github.io"><img width="35px" alt="GitHubPages" title="GitHub-Pages" src="https://cdn-icons-png.freepik.com/512/8063/8063171.png"/></a>
+  <a href="https://sharon088.github.io/"><img width="35px" alt="GitHubPages" title="GitHub-Pages" src="https://cdn-icons-png.freepik.com/512/8063/8063171.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/niv-devops"><img width="35px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/></a>
+  <a href="https://github.com/sharon088"><img width="35px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://gitlab.com/realgoofy"><img width="35px" alt="GitLab" title="GitLab" src="https://img.icons8.com/nolan/200/gitlab.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://hub.docker.com/u/devopsgoofy"><img width="40px" alt="DockerHub" title="DockerHub" src="https://miro.medium.com/v2/resize:fit:601/0*1XzkA-KeQkc2ugix.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://artifacthub.io/packages/search?user=goofy&sort=relevance&page=1"><img width="30px" alt="HelmCharts" title="HelmCharts" src="https://artifacthub.io/static/media/placeholder_pkg_helm.png"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/niv-devops?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/niv-devops?color=FEE12B&style=for-the-badge&labelColor=FFD300&logo=star&logoColor=black""/></a>
-  <a href="https://github.com/niv-devops?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/niv-devops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
 ## 💻 Programming
 <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.java.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/800px-Groovy-logo.svg.png" alt="groovy" width="40" height="40"/> </a>
@@ -61,7 +49,6 @@
 <a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jfrog-logo-BECF90A154-seeklogo.com.png" alt="jfrog" width="40" height="40"/> </a>
 <a href="https://help.sonatype.com/en/sonatype-nexus-repository.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:256/1*2b4k1_SmKkNRgqZV-NMFQg.png" alt="nexus" width="40" height="40"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.zeespire.com/assets/images/posts/0013/maven.png" alt="maven" width="40" height="40"/> </a>
-<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-gradle-2-1174969.png" alt="gradle" width="40" height="40"/> </a>
 
 ## ☁️ Cloud & Database 🛢️
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.steerbridge.com/hs-fs/hubfs/Assets_2023/aws%20white%20transparent.png?width=400&height=259&name=aws%20white%20transparent.png" alt="aws" width="40" height="40"/> </a>
@@ -92,15 +79,6 @@
 <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://www.steel-eye.com/hubfs/Slack%20Logo.png" alt="slack" width="40" height="40"/> </a>
 <a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/C5612AQG3tvjyBHOGqw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1589904203932?e=1735171200&v=beta&t=L-qRQKycE-4OzBQaLV92BP9D48mmJB0X8tQR-Ium3Ls" alt="chaosMoneky" width="40" height="40"/> </a>
 <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:861/1*pCFbZ09LlUJpQdR21nnH0Q.png" alt="checkov" width="40" height="40"/> </a>
-<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.terasky.com/wp-content/uploads/Group-463-1.svg" alt="hcvault" width="40" height="40"/> </a>
 
 ## 🎓 Certificates
-<a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
-
-## </> GitHub Profile Stats
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=ambient_gradient)](https://github.com/niv-devops/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niv-devops&show_icons=true&theme=radical)
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="niv-devops's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=niv-devops&bg_color=1F222E&color=&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://www.credly.com/badges/5ba28cec-9a63-486d-b1ad-e66a61830aab/linked_in_profile" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
