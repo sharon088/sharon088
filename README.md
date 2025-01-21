@@ -42,7 +42,7 @@
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" alt="prometheus" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/uipath/optimized/3X/5/4/5461df8fd2fe783981b0180332821184b729980e_2_500x500.png" alt="elkstack" width="40" height="40"/> </a>
-<a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jfrog-logo-BECF90A154-seeklogo.com.png" alt="jfrog" width="40" height="40"/> </a>
+<a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.3514.bbb1f9f4-3059-4d4e-b1b0-d8d71eb78110.560d9849-ba87-4cdc-85fd-d5d2c182b58d.ef1a1c8b-a55c-455b-860c-54aa765c94d1.png" alt="jfrog" width="40" height="40"/> </a>
 <a href="https://help.sonatype.com/en/sonatype-nexus-repository.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:256/1*2b4k1_SmKkNRgqZV-NMFQg.png" alt="nexus" width="40" height="40"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.zeespire.com/assets/images/posts/0013/maven.png" alt="maven" width="40" height="40"/> </a>
 
@@ -72,7 +72,7 @@
 <a href="https://snyk.io" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/s/52/snyk.svg" alt="snyk" width="40" height="40"/> </a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/480px-Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
 <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://www.steel-eye.com/hubfs/Slack%20Logo.png" alt="slack" width="40" height="40"/> </a>
-<a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="[https://media.licdn.com/dms/image/v2/C5612AQG3tvjyBHOGqw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1589904203932?e=1735171200&v=beta&t=L-qRQKycE-4OzBQaLV92BP9D48mmJB0X8tQR-Ium3Ls](https://netflix.github.io/chaosmonkey/logo.png)" alt="chaosMoneky" width="40" height="40"/> </a>
+<a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="https://netflix.github.io/chaosmonkey/logo.png" alt="chaosMoneky" width="40" height="40"/> </a>
 <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:861/1*pCFbZ09LlUJpQdR21nnH0Q.png" alt="checkov" width="40" height="40"/> </a>
 
 ## 🎓 Certificates
