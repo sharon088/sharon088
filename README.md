@@ -23,7 +23,7 @@
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer"> <img src="https://virochenko.gallerycdn.vsassets.io/extensions/virochenko/vba-fullcodesnippets/1.4.0/1699541420755/Microsoft.VisualStudio.Services.Icons.Default" alt="vba" width="40" height="40"/> </a>
 <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="html" width="40" height="40"/> </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"> <img src="[https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png](https://images.seeklogo.com/logo-png/33/1/javascript-logo-png_seeklogo-330541.png)" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" alt="jinja2" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=128&id=ewGOClUtmFX4&format=png" alt="flask" width="40" height="40"/> </a>
@@ -72,7 +72,7 @@
 <a href="https://snyk.io" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/s/52/snyk.svg" alt="snyk" width="40" height="40"/> </a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/480px-Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
 <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://www.steel-eye.com/hubfs/Slack%20Logo.png" alt="slack" width="40" height="40"/> </a>
-<a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/C5612AQG3tvjyBHOGqw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1589904203932?e=1735171200&v=beta&t=L-qRQKycE-4OzBQaLV92BP9D48mmJB0X8tQR-Ium3Ls" alt="chaosMoneky" width="40" height="40"/> </a>
+<a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="[https://media.licdn.com/dms/image/v2/C5612AQG3tvjyBHOGqw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1589904203932?e=1735171200&v=beta&t=L-qRQKycE-4OzBQaLV92BP9D48mmJB0X8tQR-Ium3Ls](https://netflix.github.io/chaosmonkey/logo.png)" alt="chaosMoneky" width="40" height="40"/> </a>
 <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:861/1*pCFbZ09LlUJpQdR21nnH0Q.png" alt="checkov" width="40" height="40"/> </a>
 
 ## 🎓 Certificates
