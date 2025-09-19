@@ -11,7 +11,7 @@
 </p>
 
 
-## 💻 Programming
+## 💻 Programming 
 <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.java.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" alt="bash" width="40" height="40"/> </a>
@@ -26,7 +26,7 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" alt="jinja2" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=128&id=ewGOClUtmFX4&format=png" alt="flask" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="pictures\dotnet.png" alt="dotnet" width="40" height="40"/> </a>
 
 ## ♾️ CI/CD
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
