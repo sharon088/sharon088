@@ -31,14 +31,14 @@
 ## ♾️ CI/CD
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>
-<a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-circleci-icon-252x256-0nzrwpuu.png" alt="CircleCI" width="40" height="40"/> </a>
+<a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="pictures\circleci.png" alt="CircleCI" width="40" height="40"/> </a>
 <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://metakube.com/content/images/2023/02/argo-icon-color.png" alt="ArgoCD" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:601/0*1XzkA-KeQkc2ugix.png" alt="docker" width="50" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" alt="helm" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-ansible-icon-256x256-ubp9wpth.png" alt="ansible" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="terraform" width="40" height="40"/> </a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" alt="prometheus" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="pictures\ansible.png" alt="ansible" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="pictures\terraform.png" alt="terraform" width="40" height="40"/> </a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="pictures\prometheus.png" alt="prometheus" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/uipath/optimized/3X/5/4/5461df8fd2fe783981b0180332821184b729980e_2_500x500.png" alt="elkstack" width="40" height="40"/> </a>
 <a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.3514.bbb1f9f4-3059-4d4e-b1b0-d8d71eb78110.560d9849-ba87-4cdc-85fd-d5d2c182b58d.ef1a1c8b-a55c-455b-860c-54aa765c94d1.png" alt="jfrog" width="40" height="40"/> </a>
@@ -62,9 +62,8 @@
 <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/microsoft-office-logo-2019-present.png" alt="msoffice" width="40" height="40"/> </a>
-<a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://www.nexustek.com/wp-content/uploads/2024/08/Microsoft_365_2022.svg.png" alt="msoffice" width="40" height="40"/> </a>
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-nginx-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945048.png?f=webp&w=256" alt="nginx" width="40" height="40"/> </a>
-<a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/gunicorn-icon-2048x1245-14wjcllu.png" alt="gunicorn" width="40" height="40"/> </a>
+<a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="pictures\gunicorn.png" alt="gunicorn" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.sentinelone.com/wp-content/uploads/2019/07/19130737/Kafka_use_cases_indicated_by_Kafka_logo_with_Scalyr_colors.png" alt="kafka" width="40" height="40"/> </a>
 <a href="https://zookeeper.apache.org/" target="_blank" rel="noreferrer"> <img src="https://dezyre.gumlet.io/files.dezyre.com/images/Tutorials/zookeeper_logo.png?w=360&dpr=2.6" alt="zookeeper" width="40" height="40"/> </a>
 <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/> </a>
