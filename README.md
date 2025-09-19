@@ -63,7 +63,7 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/microsoft-office-logo-2019-present.png" alt="msoffice" width="40" height="40"/> </a>
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-nginx-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945048.png?f=webp&w=256" alt="nginx" width="40" height="40"/> </a>
-<a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="pictures\gunicorn.png" alt="gunicorn" width="40" height="40"/> </a>
+<a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="pictures\gunicsdsorn.png" alt="gunicorn" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.sentinelone.com/wp-content/uploads/2019/07/19130737/Kafka_use_cases_indicated_by_Kafka_logo_with_Scalyr_colors.png" alt="kafka" width="40" height="40"/> </a>
 <a href="https://zookeeper.apache.org/" target="_blank" rel="noreferrer"> <img src="https://dezyre.gumlet.io/files.dezyre.com/images/Tutorials/zookeeper_logo.png?w=360&dpr=2.6" alt="zookeeper" width="40" height="40"/> </a>
 <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/> </a>
